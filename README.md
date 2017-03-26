@@ -1,4 +1,5 @@
-A simple script using the http://pi-xel.io filtering method to improve JPEG file compression.
+A simple script using the http://pi-xel.io filtering method to improve JPEG file compression using precompiled binary for Linux 32 bits.
+
 ```
 Usage: ./jpegfilter.sh options
 Options:
